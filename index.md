@@ -17,6 +17,10 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+- Teachers Seem Great
+- Good Classmates
+- Easy to make friends
+
 
 1. Numbered
 2. List
